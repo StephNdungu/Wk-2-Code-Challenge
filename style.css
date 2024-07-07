@@ -1,0 +1,11 @@
+buttonDelete();
+ coolTitle {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 60px;
+  color: rgb(145, 255, 71);  
+}
+
+.done {
+  text-decoration: line-through;
+}
